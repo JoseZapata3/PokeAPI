@@ -1,3 +1,5 @@
+//AUTHOR : JOSE ALEJANDRO ZAPATA
+
 import {getPokemonByName, getPokemonLIst} from "./data.js";
 
 const pokemonInput = document.getElementById('pokemon-input');
